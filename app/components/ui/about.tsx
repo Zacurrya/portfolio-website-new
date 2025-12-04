@@ -49,7 +49,7 @@ const About = () => {
 
             </div>
 
-            <ImageBanner imageSrc="/pics/shibuya-crossing.jpg" bannerHeight="400px" topBlend={true} bottomBlend={true} blendHeight="25px" />
+            <ImageBanner imageSrc="/pics/shibuya-crossing.jpg" bannerHeight="400px" topBlend={true} bottomBlend={true} topBlendHeight="25px" />
             
             <PeopleInspiration />
         </section>
